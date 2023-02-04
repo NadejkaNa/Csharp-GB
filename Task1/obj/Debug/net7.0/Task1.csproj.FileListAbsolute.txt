@@ -1,0 +1,15 @@
+/Applications/Рабочая /GB/C sharp/examples/Task1/bin/Debug/net7.0/Task1
+/Applications/Рабочая /GB/C sharp/examples/Task1/bin/Debug/net7.0/Task1.deps.json
+/Applications/Рабочая /GB/C sharp/examples/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Applications/Рабочая /GB/C sharp/examples/Task1/bin/Debug/net7.0/Task1.dll
+/Applications/Рабочая /GB/C sharp/examples/Task1/bin/Debug/net7.0/Task1.pdb
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/Task1.dll
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/Task1.pdb
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Applications/Рабочая /GB/C sharp/examples/Task1/obj/Debug/net7.0/ref/Task1.dll
